@@ -3,9 +3,9 @@
 This repository contains solutions for three different Java homework assignments related to data processing, sentiment analysis, and API response parsing.
 
 ## Table of Contents
-1. [Question 1: Student GPA Calculation](#question-1-student-gpa-calculation)
-2. [Question 2: Sentiment Analysis](#question-2-sentiment-analysis)
-3. [Question 3: API Response Parsing](#question-3-api-response-parsing)
+1. [Question 1: Student GPA Calculation](https://github.com/Divyanshu723/Day_2_Java_Divyanshu/tree/main/StudentPackage)
+2. [Question 2: Sentiment Analysis](https://github.com/Divyanshu723/Day_2_Java_Divyanshu/tree/main/SentimentAnalysisProject)
+3. [Question 3: API Response Parsing](https://github.com/Divyanshu723/Day_2_Java_Divyanshu/tree/main/book-parser)
 
 ---
 
